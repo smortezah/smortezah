@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on [napr](https://github.com/smortezah/napr)
 - 💬 Ask me about anything [here](https://github.com/smortezah/smortezah/issues)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/morteza-hosseini-aaa795115/), [Twitter](https://twitter.com/MoriHosseini1)
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/morteza-hosseini-aaa795115/) and [Twitter](https://twitter.com/MoriHosseini1)
